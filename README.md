@@ -81,7 +81,7 @@ wordcount-project
 
 After deploying on GitHub Pages, your project will be available at:
 
-https://yourusername.github.io/wordcount-project
+https://bhargavi24268.github.io/Map-Reduce/
 
 ---
 
